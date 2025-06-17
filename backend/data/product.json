@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Apple iPhone 15",
+    "price": "79900",
+    "distribution": "Online & Offline",
+    "rating": "4.8",
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      }
+    ],
+    "stock": "120",
+    "seller": "Apple Store",
+    "noOfreviews": "5400",
+    "createdat": "2024-10-01T10:00:00Z",
+    "description": "Apple iPhone 15 features a 6.1-inch Super Retina XDR display, A16 Bionic chip for lightning-fast performance, and a dual-camera system with improved low-light capabilities. Comes with iOS 17, Dynamic Island, and USB-C charging."
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "price": "74999",
+    "distribution": "Online",
+    "rating": "4.6",
+    "images": [
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "stock": "85",
+    "seller": "Samsung India",
+    "noOfreviews": "3200",
+    "createdat": "2024-09-15T14:30:00Z",
+    "description": "Samsung Galaxy S23 offers a 6.1-inch Dynamic AMOLED 2X display, Snapdragon 8 Gen 2 processor, and a pro-grade triple camera setup. Boasts a premium design, all-day battery life, and Android 13 with One UI 5."
+  },
+  {
+    "name": "OnePlus 12",
+    "price": "65999",
+    "distribution": "Offline",
+    "rating": "4.5",
+    "stock": "60",
+    "images": [
+      {
+        "image": "/images/products/3.jpg"
+      }
+    ],
+    "seller": "OnePlus Retail",
+    "noOfreviews": "2700",
+    "createdat": "2024-08-22T09:15:00Z",
+    "description": "OnePlus 12 comes equipped with a 6.7-inch AMOLED QHD+ display, Snapdragon 8 Gen 3 chipset, and Hasselblad-tuned triple cameras. Features a 5400mAh battery with 100W fast charging and OxygenOS 14."
+  },
+  {
+    "name": "Redmi Note 13 Pro",
+    "price": "23999",
+    "distribution": "Online",
+    "rating": "4.3",
+    "stock": "200",
+    "images": [
+      {
+        "image": "/images/products/4.jpg"
+      }
+    ],
+    "seller": "Mi Store",
+    "noOfreviews": "6400",
+    "createdat": "2024-07-12T16:45:00Z",
+    "description": "Redmi Note 13 Pro features a 6.67-inch AMOLED display, MediaTek Dimensity processor, and a 200MP main camera. Offers solid battery life with 67W turbocharging and MIUI 14 based on Android 13."
+  },
+  {
+    "name": "Realme Narzo 60",
+    "price": "17999",
+    "distribution": "Online & Offline",
+    "rating": "4.1",
+    "stock": "150",
+    "images": [
+      {
+        "image": "/images/products/5.jpg"
+      }
+    ],
+    "seller": "Realme India",
+    "noOfreviews": "2100",
+    "createdat": "2024-06-25T11:20:00Z",
+    "description": "Realme Narzo 60 offers a 6.43-inch AMOLED display, MediaTek Dimensity 6020 processor, and a 64MP AI camera. Backed by a 5000mAh battery with 33W fast charging, ideal for mid-range users."
+  }
+]
